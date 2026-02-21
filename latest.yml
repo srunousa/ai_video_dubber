@@ -1,0 +1,8 @@
+version: 3.2.1
+files:
+  - url: DubPro-AI-Setup-3.2.1.exe
+    sha512: WJ1q576o8J710W9oUi5n9PJ+/DvKUci2P+P0N485cxsubdhBBtMJuw8eA2xOvpW0V8v4a+G+E2F3aTLPRCAAZA==
+    size: 88325639
+path: DubPro-AI-Setup-3.2.1.exe
+sha512: WJ1q576o8J710W9oUi5n9PJ+/DvKUci2P+P0N485cxsubdhBBtMJuw8eA2xOvpW0V8v4a+G+E2F3aTLPRCAAZA==
+releaseDate: '2026-02-21T01:30:38.923Z'
